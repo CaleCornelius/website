@@ -1,1 +1,1 @@
-Sitemap: https://calecornelius.github.io/website/sitemap.xml
+Sitemap: cale-harrison.co.uk/website/sitemap.xml
